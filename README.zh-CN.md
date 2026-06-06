@@ -1,5 +1,7 @@
 # Free ImageGen
 
+让 AI 帮读文章 → 产出 story-plan.json → 脚本渲染
+
 [English README](./README.md)
 
 一个 **免 API、没硬件门槛、纯本地** 的内容型生图技能。
